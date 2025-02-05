@@ -1,1 +1,2 @@
 "Hola clase MLE"
+"Estamos en el proceso de aprender git y github"
